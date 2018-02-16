@@ -1,0 +1,44 @@
+body {
+  font-family: helvetica;
+  background-color: gray;
+  background-size: cover;
+}
+header {
+  font-family: 
+}
+h1 {
+  font-family: ;
+  text-align: center;
+  font-size:50px;
+}
+h2 {
+  text-align: center;
+  font-size: 20px;
+}
+li {
+  display: inline;
+  padding: 0 10px 0 10px;
+}
+ul {
+  text-align: center;
+  margin:20px auto 0 auto;
+  font-size: 20px;
+}
+img {
+  border: 7px solid white;
+  border-radius: 20px;
+  height: 250px;
+  width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.portfolio_link {
+color:#8e233e;
+}
+.portfolio_head {
+  color: #0b15a0
+}
+.front{
+  font-size: 16px;
+}
